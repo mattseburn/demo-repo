@@ -5,3 +5,4 @@ bugfix for bobcat-123
 branch creation test
 fetch test
 fetch test
+pull test
